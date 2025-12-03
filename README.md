@@ -1,11 +1,12 @@
 <h1 align="center">XYRA HUB</h1>
-<p align="center">encrypted | minimal | working</p>
+<p align="center">Fish-It | minimal | working</p>
 
 ---
 
 ## **LOADSTRING**
-```
+```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ImRevoltexee/XYRA-HUB/main/loader.lua"))()
+```
 
 **Copy. Paste. Execute.** Nothing else.
 
@@ -29,7 +30,7 @@ If it doesn't work, that's a *you* problem.
 ---
 
 <p align="center">
-  <i>Encrypted with lura.ph • Don't waste time trying to leak it</i>
+  <i>ok just ok </i>
 </p>
 
 <div align="center">
